@@ -11,7 +11,8 @@
         "cli": "dart",
         "selfHosted": true,
         "publishArgs": [
-          "--force"
+          "--force", 
+          "--skip-validation"
         ]
       }
     ]
