@@ -6,7 +6,7 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     [
-      "../dist",
+      "/Users/minh.truong.61/github/semantic-release-pub/dist",
       {
         "cli": "dart",
         "selfHosted": true,
